@@ -1,0 +1,21 @@
+body{
+	margin: auto;
+	padding: auto;
+	background-color: #489DD5;
+	overflow: hidden;
+}
+
+.first-button{
+	font-family: 'Lobster', cursive;
+	color: #489DD5;
+	margin: 300px;
+	font-size: 50px;
+	padding: 15px 20px;
+	background-color: #F0834B;
+	border: 3px solid;
+}
+
+.first-button:hover{
+	color: #F0834B;
+	background-color: #489DD5;
+}
